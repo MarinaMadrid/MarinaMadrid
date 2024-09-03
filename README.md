@@ -1,7 +1,5 @@
 <h1 align="center">Hello word! I'm Marina 👋</h1>
 
-###
-
 <h2 align="center">👩‍💻 Full Stack Developer | Junior</h2>
 
 ###
