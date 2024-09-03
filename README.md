@@ -84,12 +84,16 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/MarinaMadrid/MarinaMadrid/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left"></p>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/MarinaMadrid/count.svg?"  />
 </div>
 
 ###
