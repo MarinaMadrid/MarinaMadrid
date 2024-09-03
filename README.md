@@ -1,8 +1,8 @@
-<h1 align="left">Hello word! I'm Marina 👋</h1>
+<h1 align="center">Hello word! I'm Marina 👋</h1>
 
 ###
 
-<h2 align="left">👩‍💻 Full Stack Developer | Junior</h2>
+<h2 align="center">👩‍💻 Full Stack Developer | Junior</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Main Technologies</h3>
+<h3 align="center">Main Technologies</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">Experience and skills</h3>
+<h3 align="center">Experience and skills</h3>
 
 ###
 
@@ -74,6 +74,6 @@
 
 ###
 
-<p align="left">Let's connect!</p>
+<p align="left"></p>
 
 ###
