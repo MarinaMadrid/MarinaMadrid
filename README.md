@@ -1,12 +1,12 @@
-<h1 align="center">Hello word! I'm Marina 👋</h1>
+<h1 align="center">¡Hola mundo! Soy Marina 👋</h1>
 
 ###
 
-<h2 align="center">👩‍💻 Full Stack Developer | Junior</h2>
+<h2 align="center">👩‍💻 Desarrolladora Full Stack Junior</h2>
 
 ###
 
-<p align="left">📚 I am a Junior Full Stack Developer and Higher Technician in Development of Web Applications. <br><br>💖I'm passionate about web development and always eager to learn and grow professionally.</p>
+<p align="left">📚 Soy Desarrollador Full Stack Junior y Técnico Superior en Desarrollo de Aplicaciones Web. <br><br>💖 Me apasiona el desarrollo web y siempre estoy con ganas de aprender y crecer profesionalmente.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">Main Technologies</h3>
+<h3 align="center">Tecnologías principales</h3>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="center">Experience and skills</h3>
+<h3 align="center">Experiencias y habilidades</h3>
 
 ###
 
