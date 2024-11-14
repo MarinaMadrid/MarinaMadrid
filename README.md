@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Soy Desarrollador Full Stack Junior y Técnico Superior en Desarrollo de Aplicaciones Web. <br><br>💖 Me apasiona el desarrollo web y siempre estoy con ganas de aprender y crecer profesionalmente.</p>
+<p align="left">📚 Soy Desarrolladora Full Stack Junior y Técnico Superior en Desarrollo de Aplicaciones Web. <br><br>💖 Me apasiona el desarrollo web y siempre estoy con ganas de aprender y crecer profesionalmente.</p>
 
 ###
 
